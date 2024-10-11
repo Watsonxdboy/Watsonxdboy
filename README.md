@@ -15,13 +15,13 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/watsonxdboy"><img title="Author" src="https://img.shields.io/badge/watsonxdboy-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263789622747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/watsonxdboy"><img title="Author" src="https://img.shields.io/badge/watsonxdboy-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b"><img title="Author" src="https://img.shields.io/badge/CHANNEL-pink?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263789622747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/watsonxdboy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/watsonxdboy?label=Followers&style=social"></a>
 <a href="https://github.com/watsonxdboy/WATSON-XD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/watsonxdboy/WATSON-XD-BOT?&style=social"></a>
-<a href="https://github.com/watsonxdboy/WATSON-XD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/watsonxdboy/WATSONXDBOT?style=social"></a>
+<a href="https://github.com/watsonxdboy/WATSON-XD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/watsonxdboy/WATSON-XD-BOT?style=social"></a>
 <a href="https://github.com/watsonxdboy/WATSON-XD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watsonxdboy/WATSON-XD-BOT?label=Watching&style=social"></a>
 </p>></a>                     
 

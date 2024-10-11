@@ -20,9 +20,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/watsonxdboy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/watsonxdboy?label=Followers&style=social"></a>
-<a href="https://github.com/watsonxdboy/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/watsonxdboy/JEEP?&style=social"></a>
-<a href="https://github.com/watsonxdboy/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/watsonxdboy/JEEP?style=social"></a>
-<a href="https://github.com/watsonxdboy/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watsonxdboy/JEEP?label=Watching&style=social"></a>
+<a href="https://github.com/watsonxdboy/WATSON-XD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/watsonxdboy/WATSON-XD-BOT?&style=social"></a>
+<a href="https://github.com/watsonxdboy/WATSON-XD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/watsonxdboy/WATSONXDBOT?style=social"></a>
+<a href="https://github.com/watsonxdboy/WATSON-XD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watsonxdboy/WATSON-XD-BOT?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  

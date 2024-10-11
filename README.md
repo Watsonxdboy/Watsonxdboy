@@ -5,7 +5,7 @@
 ![watsonxdboy Stats](https://github-readme-stats.vercel.app/api?username=watsonxdboy&theme=blue-green&show_icons=true&hide_border=true&count_private=false)
 ![watsonxdboy Streak](https://github-readme-streak-stats.herokuapp.com/?user=watsonxdboy&theme=blue-green&hide_border=true)
 
-![watsonxdboy Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashokish&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![watsonxd](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashokish&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=+watsonxdboy" alt="Typing SVG" /></a>
 
